@@ -1,6 +1,4 @@
-### Hi there, I'm Luke 👋
-
-I'm a student from China, creator of Copy++.
+### Hi there, I'm Luke, creator of Copy++. 👋
 
 - 🔭 I’m currently a postgraduate students.
 - 🌱 I’m currently learning .Net, Unity and Deep Learning myself.
