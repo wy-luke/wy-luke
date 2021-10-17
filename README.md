@@ -5,9 +5,9 @@
 - 🧠 I’m looking for help with who is proficient in .Net or C#.
 - 💬 Be free to ask me about anything, like something you want to know about Copy++ or any bugs you encountered.
 
-![github stats](https://github-readme-stats.vercel.app/api?username=wy-luke&hide_title=false&hide_border=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=wy-luke&count_private=true&show_icons=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=wy-luke&theme=cobalt&hide_border=true&currStreakNum=DD2727&sideNums=8D02DD&stroke=DD2727)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=wy-luke)
 
 <h3 align="left">Languages and Tools:</h3>
 
