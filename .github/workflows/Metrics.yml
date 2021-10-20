@@ -27,10 +27,9 @@ jobs:
           plugin_traffic: yes
           plugin_notable: yes
           plugin_skyline: yes
-          plugin_pagespeed: yes
           
           plugin_stackoverflow: yes
           plugin_stackoverflow_user: 9522354
           
           plugin_wakatime: yes
-          plugin_wakatime_token: 2aa5bdd4-bbf7-4bce-a437-9cc5247fa3cf         
+          plugin_wakatime_token: 2aa5bdd4-bbf7-4bce-a437-9cc5247fa3cf   
