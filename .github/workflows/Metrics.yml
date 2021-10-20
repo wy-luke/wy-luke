@@ -10,7 +10,27 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.14
         with:
           # Your GitHub token
           token: ${{ secrets.Metrics }}
+          config_timezone: Asia/Shanghai
+          plugin_isocalendar: yes
+          plugin_languages: yes
+          
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          
+          plugin_contributors: yes
+          plugin_lines: yes
+          plugin_traffic: yes
+          plugin_notable: yes
+          plugin_skyline: yes
+          plugin_pagespeed: yes
+          
+          plugin_stackoverflow: yes
+          plugin_stackoverflow_user: 9522354
+          
+          plugin_wakatime: yes
+          plugin_wakatime_token: 2aa5bdd4-bbf7-4bce-a437-9cc5247fa3cf         
