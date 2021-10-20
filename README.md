@@ -1,6 +1,6 @@
 ### Hi there, I'm Luke, creator of Copy++. 👋
 
-![Metrics](https://metrics.lecoq.io/wy-luke?template=classic&languages=1&isocalendar=1&lines=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FShanghai)
+![Metrics](https://github.com/wy-luke/wy-luke/blob/main/github-metrics.svg)
 
 - 🔭 I’m currently a postgraduate students.
 - 🌱 I’m currently learning .Net, Unity and Deep Learning.
