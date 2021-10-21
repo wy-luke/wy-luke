@@ -1,4 +1,5 @@
 name: Metrics
+
 on:
   # Schedule updates (each hour)
   schedule: [{cron: "0 * * * *"}]
@@ -15,6 +16,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.Metrics }}
           config_timezone: Asia/Shanghai
+          repositories_forks: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           plugin_introduction: yes
