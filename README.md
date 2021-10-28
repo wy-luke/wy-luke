@@ -9,3 +9,4 @@
 - 💬 Be free to ask me about anything, like something you want to know about Copy++ or any bugs you encountered.
 
 <figure><embed src="https://wakatime.com/share/@wy/7bfd44cb-1532-4a25-8187-3de1041aa630.svg"></embed></figure>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" alt="repo" width="300")
