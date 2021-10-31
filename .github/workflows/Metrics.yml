@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # See action.yml for all options
-      - uses: wy-luke/metrics@latest
+      - uses: wy-luke/metrics@main
         with:
           # Your GitHub token
           token: ${{ secrets.Metrics }}
