@@ -16,7 +16,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.Metrics }}
           config_timezone: Asia/Shanghai
-          repositories_forks: yes
+          # repositories_forks: yes
           plugin_isocalendar: yes
           plugin_languages: yes
           # plugin_introduction: yes
