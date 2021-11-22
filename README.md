@@ -1,9 +1,10 @@
-## Hi there, I'm Luke  <img src="https://github.com/Light-City/Light-City/blob/main/wave.gif?raw=true" width="30px">
+## Hi there, I'm Luke  <img src="https://github.com/wy-luke/wy-luke/blob/main/wave.gif?raw=true" width="30px">
 
 -  ⚙ Creator of [Copy++](https://github.com/CopyPlusPlus).
 -  📈 I’m currently learning Electron, .Net, Unity and Deep Learning.
 
-## [Copy++](https://github.com/CopyPlusPlus)
+## <img src="https://github.com/wy-luke/wy-luke/blob/main/icon.png" width="25px"> [Copy++](https://github.com/CopyPlusPlus)
+
 
 [![Stars](https://img.shields.io/github/stars/CopyPlusPlus/CopyPlusPlus?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus)
 [![TotalDownloads](https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
