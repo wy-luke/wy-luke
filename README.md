@@ -1,7 +1,7 @@
 ## Hi there, I'm Luke <img src="https://github.com/wy-luke/wy-luke/blob/main/wave.gif?raw=true" width="30px">
 
 - ⚙️ Creator of [Copy++](https://github.com/CopyPlusPlus).
-- 📈 I’m currently learning Qt(C++), .Net(C#), Unity and Deep Learning.
+- 📈 I’m currently learning Qt(C++), .Net(C#), Electron(JavaScript), Unity and Deep Learning.
 
 ## [<img src="https://github.com/wy-luke/wy-luke/blob/main/CopyPlusPlus.svg" width="25px">](https://github.com/CopyPlusPlus) [Copy++](https://github.com/CopyPlusPlus)
 
