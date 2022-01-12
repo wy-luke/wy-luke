@@ -9,7 +9,7 @@
 [![TotalDownloads](https://img.shields.io/github/downloads/CopyPlusPlus/CopyPlusPlus/total.svg?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
 [![Release](https://img.shields.io/github/v/release/CopyPlusPlus/CopyPlusPlus?style=flat-square)](https://github.com/CopyPlusPlus/CopyPlusPlus/releases)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CopyPlusPlus&repo=CopyPlusPlus)](https://github.com/CopyPlusPlus/CopyPlusPlus)
+[![Readme Card](https://github-readme-stats-eight-cyan.vercel.app/api/pin/?username=CopyPlusPlus&repo=CopyPlusPlus)](https://github.com/CopyPlusPlus/CopyPlusPlus)
 
 ## About Me
 
