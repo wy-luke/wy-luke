@@ -434,42 +434,42 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C#</span>
-                            <div class="bar" style="width: 70.34676880366048%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 70.34654276598002%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">88%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 4.1082720682741245%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 4.108258867606846%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Batchfile</span>
-                            <div class="bar" style="width: 2.4559148629890495%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.455906971662859%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">PowerShell</span>
-                            <div class="bar" style="width: 1.3703665621304817%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.3703621588794956%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.9693589018559456%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.969612842486111%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Ruby</span>
-                            <div class="bar" style="width: 0.40743406508662794%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.4074327559227163%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Makefile</span>
-                            <div class="bar" style="width: 0.21901187599609273%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.21901117226886704%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.12287286000719758%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.12287246519309679%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -1587,27 +1587,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CopyPlusPlus</span>
-                                <div class="bar" style="width: 53.49600000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">67%</span>
+                                <div class="bar" style="width: 54.29600000000001%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Sony-RemoteLive-Monitor</span>
-                                <div class="bar" style="width: 13.512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">copyplusplus.github.io</span>
-                                <div class="bar" style="width: 11.184000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">14%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">Unknown Project</span>
-                                <div class="bar" style="width: 0.888%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 10.744%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">ConsoleApp</span>
-                                <div class="bar" style="width: 0.64%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.6480000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
+                                <span class="name">Unknown Project</span>
+                                <div class="bar" style="width: 0.584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -1617,27 +1617,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">C#</span>
-                                <div class="bar" style="width: 35.416000000000004%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">44%</span>
+                                <div class="bar" style="width: 35.704%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Other</span>
-                                <div class="bar" style="width: 20.12%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 20.424000000000003%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">26%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">XAML</span>
-                                <div class="bar" style="width: 8.072000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.912%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 5.472%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.5520000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">YAML</span>
-                                <div class="bar" style="width: 4.36%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.352%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                         </div>
@@ -1646,7 +1646,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Jan 2022, 13:29:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 13 Jan 2022, 13:33:56 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
