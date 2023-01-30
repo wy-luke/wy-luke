@@ -9,5 +9,3 @@
 ## Star History
 
 ![Star History Chart](https://api.star-history.com/svg?repos=wy-luke/Unity-TextMeshPro-Chinese-Characters-Set,CopyPlusPlus/CopyPlusPlus&type=Date)
-
-![metrics](https://github.com/wy-luke/wy-luke/raw/main/github-metrics.svg)
