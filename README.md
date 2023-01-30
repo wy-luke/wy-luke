@@ -5,3 +5,8 @@
 
 |![Star](https://github-readme-stats.vercel.app/api?username=wy-luke&count_private=true&include_all_commits=false&show_icons=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wy-luke)|
 |  ----  | ----  |
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=wy-luke/Unity-TextMeshPro-Chinese-Characters-Set,CopyPlusPlus/CopyPlusPlus&type=Date)](https://star-history.com/#wy-luke/Unity-TextMeshPro-Chinese-Characters-Set&CopyPlusPlus/CopyPlusPlus&Date)
+
