@@ -1,10 +1,5 @@
-## Hi there, I'm Luke:
-
-- ⚙️ Creator of [Copy++](https://github.com/CopyPlusPlus) [<img src="https://github.com/wy-luke/wy-luke/blob/main/CopyPlusPlus.svg" width="20px">](https://github.com/CopyPlusPlus)
-- 📈 Currently learning Unity, Unreal, Deep Learning, Qt/C++, Electron/JavaScript.
-
-|![Star](https://github-readme-stats.vercel.app/api?username=wy-luke&count_private=true&include_all_commits=false&show_icons=true) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=wy-luke)|
-|  ----  | ----  |
+![GitHub User's stars](https://img.shields.io/github/stars/wy-luke?label=All%20Stars&affiliations=OWNER%2CCOLLABORATOR) ![GitHub Repo stars](https://img.shields.io/github/stars/copyplusplus/copyplusplus?label=CopyPlusPLus%20Stars&link=https%3A%2F%2Fgithub.com%2FCopyPlusPlus%2FCopyPlusPlus)
+ ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/9522354) 
 
 ## Star History
 
