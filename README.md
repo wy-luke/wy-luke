@@ -1,6 +1,6 @@
 ![GitHub User's stars](https://img.shields.io/github/stars/wy-luke?label=All%20Stars&affiliations=OWNER%2CCOLLABORATOR) ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/9522354?label=StackOverflow) 
 
-**Stay Hungry, Stay Foolish.**
+**Stay Hungry. Stay Foolish.**
 
 ---
 
